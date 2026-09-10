@@ -1,0 +1,1360 @@
+{
+  "title": "在主榮耀的同在中",
+  "key": "A",
+  "meter": "4/4",
+  "credit": "詞曲：박희정　中譯：張漢業",
+  "copyright": "Copyright © 박희정. Administered by CCMSKY. All rights reserved. Used by permission.",
+  "provenance": "Audiveris 5.11.0 自動辨識後，對照原稿人工校正；補回第 8 小節、歌詞、和弦與反覆結尾。",
+  "measures": [
+    {
+      "notes": [
+        {
+          "pitch": "R",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "",
+          "chord": "A",
+          "beam": "none"
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "在",
+          "chord": "",
+          "beam": "none"
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "主",
+          "chord": "",
+          "beam": "begin"
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "榮",
+          "chord": "",
+          "beam": "end"
+        },
+        {
+          "pitch": "G#4",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "耀",
+          "chord": "E",
+          "beam": "begin"
+        },
+        {
+          "pitch": "G#4",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "的",
+          "chord": "",
+          "beam": "end"
+        },
+        {
+          "pitch": "G#4",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "同",
+          "chord": "",
+          "beam": "begin"
+        },
+        {
+          "pitch": "F#4",
+          "duration": 0.5,
+          "tie": true,
+          "lyric": "在",
+          "chord": "",
+          "beam": "end"
+        }
+      ],
+      "number": 1,
+      "lineStart": true,
+      "repeatStart": true,
+      "repeatEnd": false,
+      "ending": "",
+      "endingStop": false
+    },
+    {
+      "notes": [
+        {
+          "pitch": "F#4",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "",
+          "chord": "D2",
+          "beam": "begin"
+        },
+        {
+          "pitch": "E4",
+          "duration": 0.5,
+          "tie": true,
+          "lyric": "中",
+          "chord": "",
+          "beam": "end"
+        },
+        {
+          "pitch": "E4",
+          "duration": 3.0,
+          "tie": false,
+          "lyric": "",
+          "chord": "",
+          "beam": "none"
+        }
+      ],
+      "number": 2,
+      "lineStart": false,
+      "repeatStart": false,
+      "repeatEnd": false,
+      "ending": "",
+      "endingStop": false
+    },
+    {
+      "notes": [
+        {
+          "pitch": "R",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "",
+          "chord": "A",
+          "beam": "none"
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "在",
+          "chord": "",
+          "beam": "none"
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "主",
+          "chord": "",
+          "beam": "begin"
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "全",
+          "chord": "",
+          "beam": "end"
+        },
+        {
+          "pitch": "G#4",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "能",
+          "chord": "E",
+          "beam": "begin"
+        },
+        {
+          "pitch": "G#4",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "的",
+          "chord": "",
+          "beam": "end"
+        },
+        {
+          "pitch": "G#4",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "翅",
+          "chord": "",
+          "beam": "begin"
+        },
+        {
+          "pitch": "F#4",
+          "duration": 0.5,
+          "tie": true,
+          "lyric": "膀",
+          "chord": "",
+          "beam": "end"
+        }
+      ],
+      "number": 3,
+      "lineStart": false,
+      "repeatStart": false,
+      "repeatEnd": false,
+      "ending": "",
+      "endingStop": false
+    },
+    {
+      "notes": [
+        {
+          "pitch": "F#4",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "",
+          "chord": "D2",
+          "beam": "begin"
+        },
+        {
+          "pitch": "E4",
+          "duration": 0.5,
+          "tie": true,
+          "lyric": "下",
+          "chord": "",
+          "beam": "end"
+        },
+        {
+          "pitch": "E4",
+          "duration": 3.0,
+          "tie": false,
+          "lyric": "",
+          "chord": "",
+          "beam": "none"
+        }
+      ],
+      "number": 4,
+      "lineStart": false,
+      "repeatStart": false,
+      "repeatEnd": false,
+      "ending": "",
+      "endingStop": false
+    },
+    {
+      "notes": [
+        {
+          "pitch": "R",
+          "duration": 1.0,
+          "tie": false,
+          "lyric": "",
+          "chord": "F#m",
+          "beam": "none"
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "因",
+          "chord": "",
+          "beam": "begin"
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "著",
+          "chord": "",
+          "beam": "end"
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "主",
+          "chord": "",
+          "beam": "begin"
+        },
+        {
+          "pitch": "B4",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "大",
+          "chord": "",
+          "beam": "end"
+        },
+        {
+          "pitch": "C#5",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "能",
+          "chord": "",
+          "beam": "begin"
+        },
+        {
+          "pitch": "C#5",
+          "duration": 0.5,
+          "tie": true,
+          "lyric": "的",
+          "chord": "",
+          "beam": "end"
+        }
+      ],
+      "number": 5,
+      "lineStart": true,
+      "repeatStart": false,
+      "repeatEnd": false,
+      "ending": "",
+      "endingStop": false
+    },
+    {
+      "notes": [
+        {
+          "pitch": "C#5",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "",
+          "chord": "E",
+          "beam": "begin"
+        },
+        {
+          "pitch": "G#4",
+          "duration": 0.5,
+          "tie": true,
+          "lyric": "作",
+          "chord": "",
+          "beam": "end"
+        },
+        {
+          "pitch": "G#4",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "",
+          "chord": "",
+          "beam": "begin"
+        },
+        {
+          "pitch": "G#4",
+          "duration": 0.5,
+          "tie": true,
+          "lyric": "為",
+          "chord": "",
+          "beam": "end"
+        },
+        {
+          "pitch": "G#4",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "",
+          "chord": "",
+          "beam": "begin"
+        },
+        {
+          "pitch": "E4",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "我",
+          "chord": "",
+          "beam": "end"
+        },
+        {
+          "pitch": "E4",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "歡",
+          "chord": "",
+          "beam": "begin"
+        },
+        {
+          "pitch": "C#4",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "喜",
+          "chord": "",
+          "beam": "end"
+        }
+      ],
+      "number": 6,
+      "lineStart": false,
+      "repeatStart": false,
+      "repeatEnd": false,
+      "ending": "",
+      "endingStop": false
+    },
+    {
+      "notes": [
+        {
+          "pitch": "E4",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "讚",
+          "chord": "D2",
+          "beam": "begin"
+        },
+        {
+          "pitch": "F#4",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "美",
+          "chord": "",
+          "beam": "end"
+        },
+        {
+          "pitch": "F#4",
+          "duration": 3.0,
+          "tie": true,
+          "lyric": "祂",
+          "chord": "",
+          "beam": "none"
+        }
+      ],
+      "number": 7,
+      "lineStart": false,
+      "repeatStart": false,
+      "repeatEnd": false,
+      "ending": "",
+      "endingStop": false
+    },
+    {
+      "notes": [
+        {
+          "pitch": "F#4",
+          "duration": 4,
+          "tie": false,
+          "lyric": "",
+          "chord": "",
+          "beam": "none"
+        }
+      ],
+      "number": 8,
+      "lineStart": false,
+      "repeatStart": false,
+      "repeatEnd": true,
+      "ending": "",
+      "endingStop": false
+    },
+    {
+      "notes": [
+        {
+          "pitch": "A4",
+          "duration": 1.0,
+          "tie": false,
+          "lyric": "主",
+          "chord": "A",
+          "beam": "none"
+        },
+        {
+          "pitch": "B4",
+          "duration": 1.0,
+          "tie": false,
+          "lyric": "的",
+          "chord": "",
+          "beam": "none"
+        },
+        {
+          "pitch": "C#5",
+          "duration": 1.0,
+          "tie": false,
+          "lyric": "國",
+          "chord": "",
+          "beam": "none"
+        },
+        {
+          "pitch": "A4",
+          "duration": 1.0,
+          "tie": false,
+          "lyric": "度",
+          "chord": "",
+          "beam": "none"
+        }
+      ],
+      "number": 9,
+      "lineStart": true,
+      "repeatStart": true,
+      "repeatEnd": false,
+      "ending": "",
+      "endingStop": false
+    },
+    {
+      "notes": [
+        {
+          "pitch": "D5",
+          "duration": 1.0,
+          "tie": false,
+          "lyric": "主",
+          "chord": "E",
+          "beam": "none"
+        },
+        {
+          "pitch": "C#5",
+          "duration": 1.0,
+          "tie": false,
+          "lyric": "的",
+          "chord": "",
+          "beam": "none"
+        },
+        {
+          "pitch": "B4",
+          "duration": 1.0,
+          "tie": false,
+          "lyric": "權",
+          "chord": "",
+          "beam": "none"
+        },
+        {
+          "pitch": "C#5",
+          "duration": 1.0,
+          "tie": false,
+          "lyric": "柄",
+          "chord": "",
+          "beam": "none"
+        }
+      ],
+      "number": 10,
+      "lineStart": false,
+      "repeatStart": false,
+      "repeatEnd": false,
+      "ending": "",
+      "endingStop": false
+    },
+    {
+      "notes": [
+        {
+          "pitch": "B4",
+          "duration": 1.0,
+          "tie": false,
+          "lyric": "在",
+          "chord": "F#m",
+          "beam": "none"
+        },
+        {
+          "pitch": "A4",
+          "duration": 1.0,
+          "tie": false,
+          "lyric": "讚",
+          "chord": "",
+          "beam": "none"
+        },
+        {
+          "pitch": "A4",
+          "duration": 1.0,
+          "tie": false,
+          "lyric": "美",
+          "chord": "",
+          "beam": "none"
+        },
+        {
+          "pitch": "C#5",
+          "duration": 1.0,
+          "tie": false,
+          "lyric": "中",
+          "chord": "",
+          "beam": "none"
+        }
+      ],
+      "number": 11,
+      "lineStart": false,
+      "repeatStart": false,
+      "repeatEnd": false,
+      "ending": "",
+      "endingStop": false
+    },
+    {
+      "notes": [
+        {
+          "pitch": "F#4",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "已",
+          "chord": "D2",
+          "beam": "begin"
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "降",
+          "chord": "",
+          "beam": "end"
+        },
+        {
+          "pitch": "A4",
+          "duration": 3.0,
+          "tie": false,
+          "lyric": "臨",
+          "chord": "",
+          "beam": "none"
+        }
+      ],
+      "number": 12,
+      "lineStart": false,
+      "repeatStart": false,
+      "repeatEnd": false,
+      "ending": "",
+      "endingStop": false
+    },
+    {
+      "notes": [
+        {
+          "pitch": "A4",
+          "duration": 1.0,
+          "tie": false,
+          "lyric": "一",
+          "chord": "A",
+          "beam": "none"
+        },
+        {
+          "pitch": "B4",
+          "duration": 1.0,
+          "tie": false,
+          "lyric": "切",
+          "chord": "",
+          "beam": "none"
+        },
+        {
+          "pitch": "C#5",
+          "duration": 1.0,
+          "tie": false,
+          "lyric": "仇",
+          "chord": "",
+          "beam": "none"
+        },
+        {
+          "pitch": "A4",
+          "duration": 1.0,
+          "tie": false,
+          "lyric": "敵",
+          "chord": "",
+          "beam": "none"
+        }
+      ],
+      "number": 13,
+      "lineStart": true,
+      "repeatStart": false,
+      "repeatEnd": false,
+      "ending": "",
+      "endingStop": false
+    },
+    {
+      "notes": [
+        {
+          "pitch": "D5",
+          "duration": 1.0,
+          "tie": false,
+          "lyric": "屈",
+          "chord": "E/G#",
+          "beam": "none"
+        },
+        {
+          "pitch": "C#5",
+          "duration": 1.0,
+          "tie": false,
+          "lyric": "膝",
+          "chord": "",
+          "beam": "none"
+        },
+        {
+          "pitch": "B4",
+          "duration": 1.0,
+          "tie": false,
+          "lyric": "跪",
+          "chord": "",
+          "beam": "none"
+        },
+        {
+          "pitch": "C#5",
+          "duration": 1.0,
+          "tie": false,
+          "lyric": "拜",
+          "chord": "",
+          "beam": "none"
+        }
+      ],
+      "number": 14,
+      "lineStart": false,
+      "repeatStart": false,
+      "repeatEnd": false,
+      "ending": "",
+      "endingStop": false
+    },
+    {
+      "notes": [
+        {
+          "pitch": "B4",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "在",
+          "chord": "F#m",
+          "beam": "begin"
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5,
+          "tie": true,
+          "lyric": "主",
+          "chord": "",
+          "beam": "end"
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "",
+          "chord": "",
+          "beam": "begin"
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5,
+          "tie": true,
+          "lyric": "榮",
+          "chord": "",
+          "beam": "end"
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "",
+          "chord": "",
+          "beam": "begin"
+        },
+        {
+          "pitch": "C#5",
+          "duration": 0.5,
+          "tie": true,
+          "lyric": "耀",
+          "chord": "",
+          "beam": "end"
+        },
+        {
+          "pitch": "C#5",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "",
+          "chord": "",
+          "beam": "begin"
+        },
+        {
+          "pitch": "D5",
+          "duration": 0.5,
+          "tie": true,
+          "lyric": "座",
+          "chord": "",
+          "beam": "end"
+        }
+      ],
+      "number": 15,
+      "lineStart": false,
+      "repeatStart": false,
+      "repeatEnd": false,
+      "ending": "1",
+      "endingStop": false
+    },
+    {
+      "notes": [
+        {
+          "pitch": "D5",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "",
+          "chord": "D2",
+          "beam": "begin"
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5,
+          "tie": true,
+          "lyric": "前",
+          "chord": "",
+          "beam": "end"
+        },
+        {
+          "pitch": "A4",
+          "duration": 3.0,
+          "tie": false,
+          "lyric": "",
+          "chord": "",
+          "beam": "none"
+        }
+      ],
+      "number": 16,
+      "lineStart": false,
+      "repeatStart": false,
+      "repeatEnd": true,
+      "ending": "",
+      "endingStop": true
+    },
+    {
+      "notes": [
+        {
+          "pitch": "B4",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "當",
+          "chord": "F#m",
+          "beam": "begin"
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5,
+          "tie": true,
+          "lyric": "我",
+          "chord": "",
+          "beam": "end"
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "",
+          "chord": "",
+          "beam": "begin"
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5,
+          "tie": true,
+          "lyric": "歡",
+          "chord": "",
+          "beam": "end"
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "",
+          "chord": "",
+          "beam": "begin"
+        },
+        {
+          "pitch": "C#5",
+          "duration": 0.5,
+          "tie": true,
+          "lyric": "喜",
+          "chord": "",
+          "beam": "end"
+        },
+        {
+          "pitch": "C#5",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "",
+          "chord": "",
+          "beam": "begin"
+        },
+        {
+          "pitch": "D5",
+          "duration": 0.5,
+          "tie": true,
+          "lyric": "跳",
+          "chord": "",
+          "beam": "end"
+        }
+      ],
+      "number": 17,
+      "lineStart": true,
+      "repeatStart": false,
+      "repeatEnd": false,
+      "ending": "2",
+      "endingStop": true
+    },
+    {
+      "notes": [
+        {
+          "pitch": "D5",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "",
+          "chord": "D2",
+          "beam": "begin"
+        },
+        {
+          "pitch": "D5",
+          "duration": 0.5,
+          "tie": true,
+          "lyric": "舞",
+          "chord": "",
+          "beam": "end"
+        },
+        {
+          "pitch": "D5",
+          "duration": 3.0,
+          "tie": false,
+          "lyric": "",
+          "chord": "",
+          "beam": "none"
+        }
+      ],
+      "number": 18,
+      "lineStart": false,
+      "repeatStart": false,
+      "repeatEnd": false,
+      "ending": "",
+      "endingStop": false
+    },
+    {
+      "notes": [
+        {
+          "pitch": "R",
+          "duration": 1.0,
+          "tie": false,
+          "lyric": "",
+          "chord": "A",
+          "beam": "none"
+        },
+        {
+          "pitch": "E5",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "像",
+          "chord": "",
+          "beam": "begin"
+        },
+        {
+          "pitch": "E5",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "大",
+          "chord": "",
+          "beam": "end"
+        },
+        {
+          "pitch": "E5",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "衛",
+          "chord": "",
+          "beam": "begin"
+        },
+        {
+          "pitch": "E5",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "王",
+          "chord": "",
+          "beam": "end"
+        },
+        {
+          "pitch": "E5",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "一",
+          "chord": "",
+          "beam": "begin"
+        },
+        {
+          "pitch": "E5",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "樣",
+          "chord": "",
+          "beam": "end"
+        }
+      ],
+      "number": 19,
+      "lineStart": false,
+      "repeatStart": true,
+      "repeatEnd": false,
+      "ending": "",
+      "endingStop": false
+    },
+    {
+      "notes": [
+        {
+          "pitch": "F#5",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "來",
+          "chord": "E/G#",
+          "beam": "none"
+        },
+        {
+          "pitch": "E5",
+          "duration": 1.0,
+          "tie": false,
+          "lyric": "跳",
+          "chord": "",
+          "beam": "none"
+        },
+        {
+          "pitch": "E5",
+          "duration": 0.5,
+          "tie": true,
+          "lyric": "舞",
+          "chord": "",
+          "beam": "none"
+        },
+        {
+          "pitch": "E5",
+          "duration": 2.0,
+          "tie": false,
+          "lyric": "",
+          "chord": "",
+          "beam": "none"
+        }
+      ],
+      "number": 20,
+      "lineStart": false,
+      "repeatStart": false,
+      "repeatEnd": false,
+      "ending": "",
+      "endingStop": false
+    },
+    {
+      "notes": [
+        {
+          "pitch": "R",
+          "duration": 1.0,
+          "tie": false,
+          "lyric": "",
+          "chord": "F#m",
+          "beam": "none"
+        },
+        {
+          "pitch": "C#5",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "全",
+          "chord": "",
+          "beam": "begin"
+        },
+        {
+          "pitch": "C#5",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "心",
+          "chord": "",
+          "beam": "end"
+        },
+        {
+          "pitch": "C#5",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "全",
+          "chord": "",
+          "beam": "begin"
+        },
+        {
+          "pitch": "C#5",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "意",
+          "chord": "",
+          "beam": "end"
+        },
+        {
+          "pitch": "C#5",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "以",
+          "chord": "",
+          "beam": "begin"
+        },
+        {
+          "pitch": "C#5",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "喜",
+          "chord": "",
+          "beam": "end"
+        }
+      ],
+      "number": 21,
+      "lineStart": true,
+      "repeatStart": false,
+      "repeatEnd": false,
+      "ending": "",
+      "endingStop": false
+    },
+    {
+      "notes": [
+        {
+          "pitch": "D5",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "樂",
+          "chord": "D2",
+          "beam": "none"
+        },
+        {
+          "pitch": "C#5",
+          "duration": 1.0,
+          "tie": false,
+          "lyric": "來",
+          "chord": "",
+          "beam": "none"
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5,
+          "tie": true,
+          "lyric": "敬",
+          "chord": "",
+          "beam": "none"
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "",
+          "chord": "",
+          "beam": "none"
+        },
+        {
+          "pitch": "B4",
+          "duration": 1.0,
+          "tie": false,
+          "lyric": "拜",
+          "chord": "",
+          "beam": "none"
+        },
+        {
+          "pitch": "C#5",
+          "duration": 0.5,
+          "tie": true,
+          "lyric": "主",
+          "chord": "",
+          "beam": "none"
+        }
+      ],
+      "number": 22,
+      "lineStart": false,
+      "repeatStart": false,
+      "repeatEnd": false,
+      "ending": "",
+      "endingStop": false
+    },
+    {
+      "notes": [
+        {
+          "pitch": "C#5",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "",
+          "chord": "F#m",
+          "beam": "none"
+        },
+        {
+          "pitch": "R",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "",
+          "chord": "",
+          "beam": "none"
+        },
+        {
+          "pitch": "E5",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "凡",
+          "chord": "",
+          "beam": "begin"
+        },
+        {
+          "pitch": "E5",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "有",
+          "chord": "",
+          "beam": "end"
+        },
+        {
+          "pitch": "E5",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "氣",
+          "chord": "",
+          "beam": "begin"
+        },
+        {
+          "pitch": "E5",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "息",
+          "chord": "",
+          "beam": "end"
+        },
+        {
+          "pitch": "E5",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "都",
+          "chord": "",
+          "beam": "begin"
+        },
+        {
+          "pitch": "E5",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "要",
+          "chord": "",
+          "beam": "end"
+        }
+      ],
+      "number": 23,
+      "lineStart": false,
+      "repeatStart": false,
+      "repeatEnd": false,
+      "ending": "",
+      "endingStop": false
+    },
+    {
+      "notes": [
+        {
+          "pitch": "E5",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "來",
+          "chord": "E",
+          "beam": "none"
+        },
+        {
+          "pitch": "B4",
+          "duration": 1.0,
+          "tie": false,
+          "lyric": "讚",
+          "chord": "",
+          "beam": "none"
+        },
+        {
+          "pitch": "B4",
+          "duration": 0.5,
+          "tie": true,
+          "lyric": "美",
+          "chord": "",
+          "beam": "none"
+        },
+        {
+          "pitch": "B4",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "",
+          "chord": "",
+          "beam": "none"
+        },
+        {
+          "pitch": "C#5",
+          "duration": 1.5,
+          "tie": false,
+          "lyric": "主",
+          "chord": "",
+          "beam": "none"
+        }
+      ],
+      "number": 24,
+      "lineStart": true,
+      "repeatStart": false,
+      "repeatEnd": false,
+      "ending": "",
+      "endingStop": false
+    },
+    {
+      "notes": [
+        {
+          "pitch": "D5",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "到",
+          "chord": "D2",
+          "beam": "none"
+        },
+        {
+          "pitch": "C#5",
+          "duration": 1.0,
+          "tie": false,
+          "lyric": "永",
+          "chord": "",
+          "beam": "none"
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5,
+          "tie": true,
+          "lyric": "遠",
+          "chord": "",
+          "beam": "none"
+        },
+        {
+          "pitch": "A4",
+          "duration": 2.0,
+          "tie": false,
+          "lyric": "",
+          "chord": "",
+          "beam": "none"
+        }
+      ],
+      "number": 25,
+      "lineStart": false,
+      "repeatStart": false,
+      "repeatEnd": false,
+      "ending": "",
+      "endingStop": false
+    },
+    {
+      "notes": [
+        {
+          "pitch": "D5",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "到",
+          "chord": "D/E",
+          "beam": "none"
+        },
+        {
+          "pitch": "C#5",
+          "duration": 1.0,
+          "tie": false,
+          "lyric": "永",
+          "chord": "",
+          "beam": "none"
+        },
+        {
+          "pitch": "E5",
+          "duration": 0.5,
+          "tie": true,
+          "lyric": "遠",
+          "chord": "",
+          "beam": "none"
+        },
+        {
+          "pitch": "E5",
+          "duration": 2.0,
+          "tie": false,
+          "lyric": "",
+          "chord": "E",
+          "beam": "none"
+        }
+      ],
+      "number": 26,
+      "lineStart": false,
+      "repeatStart": false,
+      "repeatEnd": true,
+      "ending": "1",
+      "endingStop": true
+    },
+    {
+      "notes": [
+        {
+          "pitch": "D5",
+          "duration": 0.5,
+          "tie": false,
+          "lyric": "到",
+          "chord": "D/E",
+          "beam": "none"
+        },
+        {
+          "pitch": "C#5",
+          "duration": 1.0,
+          "tie": false,
+          "lyric": "永",
+          "chord": "",
+          "beam": "none"
+        },
+        {
+          "pitch": "A4",
+          "duration": 0.5,
+          "tie": true,
+          "lyric": "遠",
+          "chord": "",
+          "beam": "none"
+        },
+        {
+          "pitch": "A4",
+          "duration": 2.0,
+          "tie": false,
+          "lyric": "",
+          "chord": "A",
+          "beam": "none"
+        }
+      ],
+      "number": 27,
+      "lineStart": false,
+      "repeatStart": false,
+      "repeatEnd": false,
+      "ending": "2",
+      "endingStop": true
+    }
+  ]
+}
