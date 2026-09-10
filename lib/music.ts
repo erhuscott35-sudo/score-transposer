@@ -1,6 +1,6 @@
 export type Note={pitch:string;duration:number;tie:boolean;lyric:string;chord:string;beam?:string};
-export type Measure={number:number;notes:Note[];lineStart?:boolean;repeatStart?:boolean;repeatEnd?:boolean;ending?:string;endingStop?:boolean};
-export type Score={title:string;key:string;meter:string;credit?:string;copyright?:string;provenance?:string;measures:Measure[]};
+export type Measure={number:number;notes:Note[];sourcePage?:number;lineStart?:boolean;repeatStart?:boolean;repeatEnd?:boolean;ending?:string;endingStop?:boolean};
+export type Score={title:string;key:string;meter:string;sourcePageCount?:number;credit?:string;copyright?:string;provenance?:string;measures:Measure[]};
 export const KEYS=['C','C#','Db','D','Eb','E','F','F#','Gb','G','Ab','A','Bb','B'];
 const letters='CDEFGAB', naturals=[0,2,4,5,7,9,11];
 export const fifths:Record<string,number>={C:0,'C#':7,Db:-5,D:2,Eb:-3,E:4,F:-1,'F#':6,Gb:-6,G:1,Ab:-4,A:3,Bb:-2,B:5};
