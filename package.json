@@ -6,9 +6,9 @@
     "node": ">=22.13.0"
   },
   "scripts": {
-    "dev": "vinext dev",
-    "build": "vinext build",
-    "start": "wrangler dev --config dist/server/wrangler.json",
+    "dev": "node scripts/prepare-assets.mjs && vinext dev",
+    "build": "node scripts/prepare-assets.mjs && vinext build",
+    "start": "python3 local/bridge.py",
     "lint": "oxlint",
     "format": "oxfmt",
     "test": "node tests/music.test.mjs"

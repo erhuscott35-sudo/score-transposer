@@ -1,6 +1,6 @@
 #!/bin/zsh
 cd "$(dirname "$0")"
-SCORE_PYTHON='/Users/shih-chiehliu/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3'
+SCORE_PYTHON="${SCORE_PYTHON:-$PWD/.venv/bin/python3}"
 if [[ ! -x "$SCORE_PYTHON" ]]; then
   SCORE_PYTHON=$(command -v python3)
 fi

@@ -43,3 +43,5 @@ next-env.d.ts
 
 /test-output/
 *.tsbuildinfo
+/.venv/
+/public/pdf.worker.min.mjs
