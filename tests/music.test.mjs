@@ -7,6 +7,10 @@ const multi=structuredClone(sample);multi.sourcePageCount=2;multi.measures.forEa
 const multiXml=toXML(multi);assert.match(multiXml,/new-page="yes"/);
 const imported=fromXML(multiXml);assert.equal(imported.sourcePageCount,2);assert.equal(imported.measures[14].sourcePage,2);assert.equal(imported.measures[14].lineStart,true);
 assert.deepEqual(transpose(imported,'A','G').measures.map(m=>m.sourcePage),multi.measures.map(m=>m.sourcePage));
+for(const [fragment,label] of [['<backup><duration>4</duration></backup>','多聲部時間重疊'],['<note><chord/></note>','同時發聲的疊音'],['<note><grace/></note>','倚音'],['<note><time-modification/></note>','連音群']]){
+ const unsupported=multiXml.replace('<print new-page="yes"/>','<print new-page="yes"/>'+fragment);
+ assert.throws(()=>fromXML(unsupported),error=>error.message.includes('第 2 頁、第 15 小節')&&error.message.includes(label)&&error.message.includes('辨識誤判'));
+}
 const changedKey=multiXml.replace('<measure number="2">','<measure number="2"><attributes><key><fifths>0</fifths></key></attributes>');assert.throws(()=>fromXML(changedKey),/中途轉調/);
 for(const target of KEYS){const shifted=transpose(sample,'A',target);assert.deepEqual(validate(shifted),[]);shifted.measures.forEach((m,i)=>m.notes.forEach((n,j)=>{const prev=sample.measures[i].notes[j];if(n.pitch!=='R')assert.equal(parsePitch(n.pitch).midi-parsePitch(prev.pitch).midi,interval('A',target).semi);assert.equal(n.duration,prev.duration);assert.equal(n.lyric,prev.lyric);assert.equal(n.tie,prev.tie)}));const back=transpose(shifted,target,'A');assert.deepEqual(back.measures,sample.measures);const xml=toXML(shifted),round=fromXML(xml);assert.deepEqual(round.measures.map(m=>m.notes),shifted.measures.map(m=>m.notes));}
 assert.equal(JSON.stringify(sample),original);for(const [a,b] of [['A','G'],['E','D'],['D2','C2'],['F#m','Em'],['E/G#','D/F#'],['D/E','C/D']])assert.equal(shiftChord(a,'A','G'),b);
