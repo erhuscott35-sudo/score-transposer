@@ -11,7 +11,7 @@
     "start": "python3 local/bridge.py",
     "lint": "oxlint",
     "format": "oxfmt",
-    "test": "node tests/music.test.mjs"
+    "test": "node tests/workflow.test.mjs"
   },
   "dependencies": {
     "@base-ui/react": "1.7.0",

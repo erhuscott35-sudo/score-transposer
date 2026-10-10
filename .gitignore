@@ -44,4 +44,5 @@ next-env.d.ts
 /test-output/
 *.tsbuildinfo
 /.venv/
+__pycache__/
 /public/pdf.worker.min.mjs
